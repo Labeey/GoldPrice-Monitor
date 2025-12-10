@@ -30,8 +30,9 @@
    - Adafruit SSD1306
    - Adafruit GFX
    - WiFiManager
+     
+![IMG_3103](https://github.com/user-attachments/assets/19658171-07b1-4507-8535-bb9187dba0f5)
 
-![IMG_3091](https://github.com/user-attachments/assets/97306484-1e8a-48e7-b512-812cbe95bd3e)
 
    - ![Screenshot 2025-12-08 at 11 56 41 PM](https://github.com/user-attachments/assets/712b0c7d-d83a-4520-acd9-f72ba1f1087e)
 ![Screenshot 2025-12-09 at 12 07 18 AM](https://github.com/user-attachments/assets/113442cb-c7b7-49ee-9fa6-136f04b388ed)
